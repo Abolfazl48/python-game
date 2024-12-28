@@ -4,7 +4,7 @@ This game was from the time when I was just starting to learn Python.
 # installation
 git clone https://github.com/Abolfazl48/python-game.git
 
-pip install requirements.txt
+pip install pgzero
 
 install fonts
 
