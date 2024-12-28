@@ -2,11 +2,21 @@
 This game was from the time when I was just starting to learn Python.
 
 # installation
+```
 git clone https://github.com/Abolfazl48/python-game.git
+```
 
+```
+cd python-game
+```
+
+```
 pip install pgzero
+```
 
+```
 install fonts
+```
 
 # Usage
 cd python-game
