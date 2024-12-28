@@ -10,9 +10,7 @@ git clone https://github.com/Abolfazl48/python-game.git
 pip install pgzero
 ```
 
-```
 install fonts
-```
 
 # Usage
 
